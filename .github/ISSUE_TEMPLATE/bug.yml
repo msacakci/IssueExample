@@ -1,4 +1,4 @@
-name: 🐞 Bug Report
+name: Bug
 description: Create a report about something that is not working
 body:
 - type: markdown
